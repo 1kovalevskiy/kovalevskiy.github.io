@@ -4,7 +4,7 @@
 </h1>
 <h3 align="center">Backend-developer</h3>
 
-
+<p align="center">
 ## [Portfolio](https://github.com/stars/1kovalevskiy/lists/portfolio)
 #### ⭐️ Done
 [YaTube (Django)](https://github.com/1kovalevskiy/yatube) [ Пример](http://yatube.kovalevskiy.xyz)
@@ -22,7 +22,7 @@
 [Meeting room (FastAPI)](https://github.com/1kovalevskiy/Meeting_room) [ Пример](http://meeting-room.kovalevskiy.xyz/docs)
 
 [QRKot (FastAPI)](https://github.com/1kovalevskiy/QRKot) [ Пример](http://qrkot.kovalevskiy.xyz/docs)
-
+</p>
 
 ## Main technologies
 #### Active use
