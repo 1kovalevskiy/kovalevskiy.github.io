@@ -1,10 +1,9 @@
-<h1 align="center">Hi, I'm [Nikita Kovalevskiy](https://github.com/1kovalevskiy)  
+<h1 align="center">Hi, I'm <a href="https://github.com/1kovalevskiy">Nikita Kovalevskiy</a>  
 <a href="https://t.me/kovalevskiy" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Contacts/telegram.png?raw=true" alt="python" height="40"/> </a>
 <a href="mailto:koval701+fromgithub@gmail.com" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Contacts/gmail.png?raw=true" alt="python" height="40"/> </a>
 </h1>
 <h3 align="center">Backend-developer</h3>
 
-<p align="center">
 ## [Portfolio](https://github.com/stars/1kovalevskiy/lists/portfolio)
 #### ⭐️ Done
 [YaTube (Django)](https://github.com/1kovalevskiy/yatube) [ Пример](http://yatube.kovalevskiy.xyz)
@@ -22,7 +21,6 @@
 [Meeting room (FastAPI)](https://github.com/1kovalevskiy/Meeting_room) [ Пример](http://meeting-room.kovalevskiy.xyz/docs)
 
 [QRKot (FastAPI)](https://github.com/1kovalevskiy/QRKot) [ Пример](http://qrkot.kovalevskiy.xyz/docs)
-</p>
 
 ## Main technologies
 #### Active use
