@@ -1,14 +1,28 @@
-<h1 align="center">Hi there, I'm Nikita Kovalevskiy  
+<h1 align="center">Hi, I'm [Nikita Kovalevskiy](https://github.com/1kovalevskiy)  
 <a href="https://t.me/kovalevskiy" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Contacts/telegram.png?raw=true" alt="python" height="40"/> </a>
 <a href="mailto:koval701+fromgithub@gmail.com" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Contacts/gmail.png?raw=true" alt="python" height="40"/> </a>
 </h1>
-<h3 align="center">Researcher in Boreskov Institute of Catalysis, Novosibirsk 🇷🇺</h3>
-<h3 align="center">Backend-developer as a hobby!</h3>
+<h3 align="center">Backend-developer</h3>
 
-<p align="center">
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=1kovalevskiy&title=MultiLanguage,Commits,Repositories,Stars,PullRequest)](https://github.com/ryo-ma/github-profile-trophy) -->
-<img src="https://github-profile-trophy.vercel.app/?username=1kovalevskiy&title=MultiLanguage,Commits,Repositories,Stars,PullRequest,Followers" alt="python" height="120"/>
-</p>
+
+## [Portfolio](https://github.com/stars/1kovalevskiy/lists/portfolio)
+#### ⭐️ Done
+[YaTube (Django)](https://github.com/1kovalevskiy/yatube) [ Пример](http://yatube.kovalevskiy.xyz)
+
+[Foodgram (DRF)](https://github.com/1kovalevskiy/foodgram) [ Пример](http://foodgram.kovalevskiy.xyz)
+
+[YamDB (DRF)](https://github.com/1kovalevskiy/yamdb) [ Пример](http://yamdb.kovalevskiy.xyz/redoc)
+
+[YaTube-API (DRF)](https://github.com/1kovalevskiy/api-yatube) [ Пример](http://yatube-api.kovalevskiy.xyz/redoc)
+
+[What to watch (Flask)](https://github.com/1kovalevskiy/what_to_watch) [ Пример](http://what-to-watch.kovalevskiy.xyz)
+
+[YaCut (Flask)](https://github.com/1kovalevskiy/YaCut) [ Пример](http://yacut.kovalevskiy.xyz)
+
+[Meeting room (FastAPI)](https://github.com/1kovalevskiy/Meeting_room) [ Пример](http://meeting-room.kovalevskiy.xyz/docs)
+
+[QRKot (FastAPI)](https://github.com/1kovalevskiy/QRKot) [ Пример](http://qrkot.kovalevskiy.xyz/docs)
+
 
 ## Main technologies
 #### Active use
@@ -46,23 +60,3 @@
 
 </p>
 
-## [Portfolio](https://github.com/stars/1kovalevskiy/lists/portfolio)
-#### ⭐️ Done
-[YaTube (Django)](https://github.com/1kovalevskiy/yatube) [ Пример](http://yatube.kovalevskiy.xyz)
-
-[Foodgram (DRF)](https://github.com/1kovalevskiy/foodgram) [ Пример](http://foodgram.kovalevskiy.xyz)
-
-[YamDB (DRF)](https://github.com/1kovalevskiy/yamdb) [ Пример](http://yamdb.kovalevskiy.xyz/redoc)
-
-[YaTube-API (DRF)](https://github.com/1kovalevskiy/api-yatube) [ Пример](http://yatube-api.kovalevskiy.xyz/redoc)
-
-[What to watch (Flask)](https://github.com/1kovalevskiy/what_to_watch) [ Пример](http://what-to-watch.kovalevskiy.xyz)
-
-[YaCut (Flask)](https://github.com/1kovalevskiy/YaCut) [ Пример](http://yacut.kovalevskiy.xyz)
-
-[Meeting room (FastAPI)](https://github.com/1kovalevskiy/Meeting_room) [ Пример](http://meeting-room.kovalevskiy.xyz/docs)
-
-[QRKot (FastAPI)](https://github.com/1kovalevskiy/QRKot) [ Пример](http://qrkot.kovalevskiy.xyz/docs)
-
-
-<!-- [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=koval701&theme=dark)](https://github.com/KnlnKS/leetcode-stats) -->
