@@ -4,8 +4,7 @@
 </h1>
 <h3 align="center">Backend-developer</h3>
 
-## [Portfolio](https://github.com/stars/1kovalevskiy/lists/portfolio)
-#### ⭐️ Done
+## ⭐️ Portfolio
 [Github: YaTube (Django)](https://github.com/1kovalevskiy/yatube)
 [_Пример_](http://yatube.kovalevskiy.xyz)
 
