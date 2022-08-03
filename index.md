@@ -6,28 +6,28 @@
 
 ## ⭐️ Portfolio
 [Github: YaTube (Django)](https://github.com/1kovalevskiy/yatube)
-[_Пример_](http://yatube.kovalevskiy.xyz)
+[***Пример***](http://yatube.kovalevskiy.xyz)
 
 [Github: Foodgram (DRF)](https://github.com/1kovalevskiy/foodgram)
-[_Пример_](http://foodgram.kovalevskiy.xyz)
+[***Пример***](http://foodgram.kovalevskiy.xyz)
 
 [Github: YamDB (DRF)](https://github.com/1kovalevskiy/yamdb)
-[_Пример_](http://yamdb.kovalevskiy.xyz/redoc)
+[***Пример***](http://yamdb.kovalevskiy.xyz/redoc)
 
 [Github: YaTube-API (DRF)](https://github.com/1kovalevskiy/api-yatube)
-[_Пример_](http://yatube-api.kovalevskiy.xyz/redoc)
+[***Пример***](http://yatube-api.kovalevskiy.xyz/redoc)
 
 [Github: What to watch (Flask)](https://github.com/1kovalevskiy/what_to_watch)
-[_Пример_](http://what-to-watch.kovalevskiy.xyz)
+[***Пример***](http://what-to-watch.kovalevskiy.xyz)
 
 [Github: YaCut (Flask)](https://github.com/1kovalevskiy/YaCut)
-[_Пример_](http://yacut.kovalevskiy.xyz)
+[***Пример***](http://yacut.kovalevskiy.xyz)
 
 [Github: Meeting room (FastAPI)](https://github.com/1kovalevskiy/Meeting_room)
-[_Пример_](http://meeting-room.kovalevskiy.xyz/docs)
+[***Пример***](http://meeting-room.kovalevskiy.xyz/docs)
 
 [Github: QRKot (FastAPI)](https://github.com/1kovalevskiy/QRKot)
-[_Пример_](http://qrkot.kovalevskiy.xyz/docs)
+[***Пример***](http://qrkot.kovalevskiy.xyz/docs)
 
 ## Main technologies
 #### Active use
