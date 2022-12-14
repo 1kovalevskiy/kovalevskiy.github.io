@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dr. <a href="https://github.com/1kovalevskiy">Nikita Kovalevskiy</a>  
+<h1 align="center">I'm Dr. <a href="https://github.com/1kovalevskiy">Nikita Kovalevskiy</a>  
 <a href="https://t.me/kovalevskiy" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Contacts/telegram.png?raw=true" alt="python" height="40"/> </a>
 <a href="mailto:koval701+fromgithub@gmail.com" target="_blank" rel="noreferrer"> <img src="https://github.com/1kovalevskiy/1kovalevskiy/blob/main/icons/Contacts/gmail.png?raw=true" alt="python" height="40"/> </a>
 </h1>
